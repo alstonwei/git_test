@@ -1,5 +1,6 @@
 “Git is a free software .
 
+stash test
 Switched to a new branch 'dev'
 
 create a branch is quick & simple
