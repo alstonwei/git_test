@@ -1,4 +1,6 @@
 
+Switched to a new branch 'dev'
+
 create a branch is quick & simple
 
 switched to a new branch feature1
